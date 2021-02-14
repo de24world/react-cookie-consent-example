@@ -1,3 +1,12 @@
 .CookieConsent {
-  background-color: red;
+  background-color: white;
+  max-width: 500px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  right: auto;
+  bottom: auto;
+  transform: translate3d(-50%, -50%, 9999990px);
+  width: 95%;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
 }
